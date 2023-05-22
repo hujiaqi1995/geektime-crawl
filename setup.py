@@ -14,7 +14,7 @@ setup(
     keywords='crawl',
     packages=find_packages(),
     install_requires=[
-        'requests==2.22.0',
+        'requests==2.31.0',
         'pdfkit==0.6.1'
     ],
 
